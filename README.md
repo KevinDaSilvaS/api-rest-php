@@ -6,9 +6,16 @@ and it was very nice and fun to implement it.At the end i learn a lot by finishi
 <table>
   <thead>
     <tr>
-      <th>Requisition<th>
-      <th>Example<th>
-      <th>Fields<th>
+      <th>Requisition</th>
+      <th>Example</th>
+      <th>Fields</th>
     </tr>
   </thead>
+  <tbody>
+    <tr>
+      <td>Requisition</td>
+      <td>Example</td>
+      <th>Fields</td>
+    </tr>
+  </tbody>
 </table>
