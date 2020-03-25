@@ -21,5 +21,10 @@ and it was very nice and fun to implement it.At the end i learn a lot by finishi
           "email":"bittingthedust@gmail.com"
         }</td>
     </tr>
+    <tr>
+      <td>GET</td>
+      <td>http://localhost/api-php/User.php</td>
+      <th>returns a list with all users</td>
+    </tr>
   </tbody>
 </table>
