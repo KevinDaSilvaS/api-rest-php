@@ -3,6 +3,13 @@ API REST made with php and mysql,
 to create a user subscribe table,that was my first api rest that included the entire application crud 
 and it was very nice and fun to implement it.At the end i learn a lot by finishing this project
 
+<ul>
+  <li>400 BAD REQUEST - requisition type not expected or parameters missing.</li>
+  <li>500 INTERNAL SERVER ERROR - api for some reason causes an error.The error will be returned.</li>
+  <li>201 CREATED - requisition was succesfully accomplished.</li>
+  <li>200 OK - list of users returned succesfully.</li>
+</ul>
+
 <table>
   <thead>
     <tr>
