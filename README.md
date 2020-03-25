@@ -39,5 +39,11 @@ and it was very nice and fun to implement it.At the end i learn a lot by finishi
         }</td>
       <td>"User successfully updated."</td>
     </tr>
+    <tr>
+      <td>DELETE</td>
+      <td>http://localhost/api-php/User.php?id=userid</td>
+      <td></td>
+      <td>"User successfully deleted."</td>
+    </tr>
   </tbody>
 </table>
