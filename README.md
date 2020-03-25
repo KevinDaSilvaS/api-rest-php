@@ -29,5 +29,15 @@ and it was very nice and fun to implement it.At the end i learn a lot by finishi
       <td></td>
       <td>returns a list with all users</td>
     </tr>
+    <tr>
+      <td>PUT</td>
+      <td>http://localhost/api-php/User.php?id=userid</td>
+      <td>{
+          "first_name":"another one",
+          "last_name":"bites the dust",//optional
+          "email":"bittingthedust@gmail.com"
+        }</td>
+      <td>"User successfully updated."</td>
+    </tr>
   </tbody>
 </table>
