@@ -4,9 +4,11 @@ to create a user subscribe table,that was my first api rest that included the en
 and it was very nice and fun to implement it.At the end i learn a lot by finishing this project
 
 <table>
-  <tr>
-    <th>q<th>
-    <th>q<th>
-    <th>q<th>
-  </tr>
+  <thead>
+    <tr>
+      <th>Requisition<th>
+      <th>Example<th>
+      <th>Fields<th>
+    </tr>
+  </thead>
 </table>
